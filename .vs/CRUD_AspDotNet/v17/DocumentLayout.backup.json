@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\create\\CRUD_AspDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|d:\\create\\crud_aspdotnet\\views\\crud\\edit_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|solutionrelative:views\\crud\\edit_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|d:\\create\\crud_aspdotnet\\views\\crud\\add_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|solutionrelative:views\\crud\\add_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|d:\\create\\crud_aspdotnet\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|solutionrelative:controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|d:\\create\\crud_aspdotnet\\views\\crud\\fetchuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|solutionrelative:views\\crud\\fetchuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|d:\\create\\crud_aspdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|d:\\create\\crud_aspdotnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|d:\\create\\crud_aspdotnet\\db context\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977ADABC-6D78-41E5-8BE4-F57F64857A15}|CRUD_AspDotNet.csproj|solutionrelative:db context\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edit_user.cshtml",
+              "DocumentMoniker": "D:\\create\\CRUD_AspDotNet\\Views\\CRUD\\edit_user.cshtml",
+              "RelativeDocumentMoniker": "Views\\CRUD\\edit_user.cshtml",
+              "ToolTip": "D:\\create\\CRUD_AspDotNet\\Views\\CRUD\\edit_user.cshtml",
+              "RelativeToolTip": "Views\\CRUD\\edit_user.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T11:50:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FetchUser.cshtml",
+              "DocumentMoniker": "D:\\create\\CRUD_AspDotNet\\Views\\CRUD\\FetchUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\CRUD\\FetchUser.cshtml",
+              "ToolTip": "D:\\create\\CRUD_AspDotNet\\Views\\CRUD\\FetchUser.cshtml",
+              "RelativeToolTip": "Views\\CRUD\\FetchUser.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T11:42:15.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add_user.cshtml",
+              "DocumentMoniker": "D:\\create\\CRUD_AspDotNet\\Views\\CRUD\\add_user.cshtml",
+              "RelativeDocumentMoniker": "Views\\CRUD\\add_user.cshtml",
+              "ToolTip": "D:\\create\\CRUD_AspDotNet\\Views\\CRUD\\add_user.cshtml",
+              "RelativeToolTip": "Views\\CRUD\\add_user.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T11:28:30.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRUDController.cs",
+              "DocumentMoniker": "D:\\create\\CRUD_AspDotNet\\Controllers\\CRUDController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CRUDController.cs",
+              "ToolTip": "D:\\create\\CRUD_AspDotNet\\Controllers\\CRUDController.cs",
+              "RelativeToolTip": "Controllers\\CRUDController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:18:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\create\\CRUD_AspDotNet\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\create\\CRUD_AspDotNet\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:11:08.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "D:\\create\\CRUD_AspDotNet\\DB Context\\SqlContext.cs",
+              "RelativeDocumentMoniker": "DB Context\\SqlContext.cs",
+              "ToolTip": "D:\\create\\CRUD_AspDotNet\\DB Context\\SqlContext.cs",
+              "RelativeToolTip": "DB Context\\SqlContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:08:54.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\create\\CRUD_AspDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\create\\CRUD_AspDotNet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:07:26.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
